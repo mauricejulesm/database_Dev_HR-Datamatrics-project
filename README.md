@@ -1,6 +1,11 @@
 # database_development_project
 
-Tasks were the following:
+
+**Below are tasks of the project.
+
+**If you want a quick review of the project's results. check the document called final_report
+
+# Tasks were the following:
 
 1. Produce an Entity Relationship Diagram based on the schema description
 given above. 
