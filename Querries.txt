@@ -1,3 +1,6 @@
+/* The following are some used querries 
+   ========================================== */
+
 1.	SELECT dpt.department_id, emp.first_name, emp.last_name, COUNT(emp.employee_id) as number_of_employed, MAX(salary) as maximum_salary, MIN(salary) as minimun_salary 
 	FROM departments as dpt
 	JOIN employees as emp ON dpt.department_id = emp.department_id 
