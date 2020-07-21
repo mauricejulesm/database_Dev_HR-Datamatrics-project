@@ -29,6 +29,6 @@ assignment description.
     Don’t show the finance department.
 
     iii. List the employee id, last name, department id and department name for
-    all employees in departments 90 and 80. (5 marks)
+    all employees in departments 90 and 80. 
     iv. Retrieve the name, city, street and post code for all US departments that
     are not ‘IT’, ‘IT Support’ or ‘IT Helpdesk’.
